@@ -28,7 +28,7 @@ jobs:
         continue-on-error: true
         run: |
           echo "Release outputs:"
-          echo "${{ toJson(steps.release.outputs) }}"
+          echo '${{ toJson(steps.release.outputs) }}'
 
 
   release-hello-react:
