@@ -11,6 +11,7 @@ permissions:
 
 jobs:
   release-please:
+    if: github.head_ref != 'release-please--branches--master'
     runs-on: ubuntu-latest
     outputs:
       hello-react--tag_name: ${{ steps.release.outputs.hello-react--tag_name}}
