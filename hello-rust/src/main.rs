@@ -11,6 +11,6 @@ fn main() {
     if random_number > 10 {
         println!("The number is greater than 10: {}", random_number);
     } else {
-        println!("The number is less than or equal to 10: {}", random_number);
+        println!("good luck next time {}", random_number);
     }
 }
