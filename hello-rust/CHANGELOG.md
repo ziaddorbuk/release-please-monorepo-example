@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.1](https://github.com/ziaddorbuk/release-please-monorepo-example/compare/hello_rust@v0.5.0...hello_rust@v0.5.1) (2025-01-23)
+
+
+### Bug Fixes
+
+* **hello-react:** add package to dependency ([8ca1bb3](https://github.com/ziaddorbuk/release-please-monorepo-example/commit/8ca1bb3e7a0439040d0ed3d576a72bb929839298))
+
 ## [0.5.0](https://github.com/ziaddorbuk/release-please-monorepo-example/compare/hello_rust-v0.4.0...hello_rust@v0.5.0) (2025-01-23)
 
 
