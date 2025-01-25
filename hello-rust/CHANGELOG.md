@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.2](https://github.com/ziaddorbuk/release-please-monorepo-example/compare/hello_rust@v0.5.1...hello_rust@v0.5.2) (2025-01-25)
+
+
+### Bug Fixes
+
+* **hello-rust:** change print message ([5c921d4](https://github.com/ziaddorbuk/release-please-monorepo-example/commit/5c921d4c0b2cd143a6c8abe7ab5606e5a7c0e9ba))
+
 ## [0.5.1](https://github.com/ziaddorbuk/release-please-monorepo-example/compare/hello_rust@v0.5.0...hello_rust@v0.5.1) (2025-01-23)
 
 
